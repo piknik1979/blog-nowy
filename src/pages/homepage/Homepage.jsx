@@ -1,4 +1,3 @@
-import React from 'react';
 import { useLocation } from "react-router";
 import Header from "../../components/header/Header";
 import Posts from "../../components/posts/Posts";
